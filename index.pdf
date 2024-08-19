@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Reference Letters</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .reference-letter {
+      background-color: #f4f4f4;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+    
+    .reference-letter h2 {
+      margin-top: 0;
+    }
+    
+    .reference-letter a {
+      color: #0077b6;
+      text-decoration: none;
+    }
+    
+    .reference-letter a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>My Reference Letters</h1>
+    
+    <div class="reference-letter">
+      <h2>Reference Letter from Deputy Dean</h2>
+      <a href="Deputy Dean Reference Letter" target="_blank">View Letter</a>
+    </div>
+    
+    <div class="reference-letter">
+      <h2>Reference Letter from Faculty Dean</h2>
+      <a href="Dean Recommendation Letter" target="_blank">View Letter</a>
+    </div>
+  </div>
+</body>
+</html>
